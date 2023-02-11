@@ -13,6 +13,7 @@
 		"VungleAppID":"63e6e23e98da8fc4920d0659",
 		"VungleBanner":"BANNER-9519141",
 		"VungleInterstitial":"DEFAULT-2635874",
-		"VungleMREC":"MREC-8278015"
+		"VungleMREC":"MREC-8278015",
+		"RatingActive":true
 	}
 }
