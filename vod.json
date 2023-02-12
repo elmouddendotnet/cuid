@@ -1,12 +1,12 @@
 {
 	"AdsManager":{
-		"AdNetwork":"vungle",
+		"AdNetwork":"applovin",
 		"AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
 		"AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
 		"AdmobNative":"ca-app-pub-3940256099942544/2247696110",
-		"ApplovinBanner":"",
-		"ApplovinInterstitial":"",
-		"ApplovinNative":"",
+		"ApplovinBanner":"6db1491f2e21970c",
+		"ApplovinInterstitial":"812b82d9e0c7cb7f",
+		"ApplovinNative":"64ea2f2ef41edb34",
 		"UnityGameID":"4848007",
 		"UnityBanner":"Banner_Android",
 		"UnityInterstitial":"Interstitial_Android",
