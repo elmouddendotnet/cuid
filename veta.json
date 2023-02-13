@@ -1,0 +1,18 @@
+{
+	"AdsController":{
+		"gameURL":"https://html5.gamedistribution.com/9693bf0e73cb4e29a1ead7ddfc5274b6/",
+		"adNetwork":"admob",
+		"admobAppOpen":"ca-app-pub-3940256099942544/3419835294",
+		"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+		"admobBanner":"ca-app-pub-3940256099942544/6300978111",
+		"ironsourceAppKey":"11fc77665",
+		"ironsourceInterstitial":"DefaultInterstitial",
+		"ironsourceBanner":"DefaultBanner",
+		"fanInterstitial":"1123378281689140_1123378805022421",
+		"fanBanner":"1123378281689140_1123378698355765",
+		"unityGameID":"4848007",
+		"unityIntestitial":"Interstitial_Android",
+		"unityBanner":"Banner_Android",
+		"reviewpopupActive":true
+	}
+}
