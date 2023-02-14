@@ -16,6 +16,7 @@
 		"reviewpopupActive":true,
 		"customAdActive":true,
 		"customAdImageLink":"https://i.imgur.com/NMmW6jz.png",
+		"customAdButtonText":"INSTALL NOW",
 		"customAdButtonBackgroundColor":"#279b37",
 		"customAdButtonTextColor":"#FFFFFF",
 		"customAdButtonLink":"https://www.google.com"
