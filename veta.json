@@ -13,6 +13,11 @@
 		"unityGameID":"4848007",
 		"unityIntestitial":"Interstitial_Android",
 		"unityBanner":"Banner_Android",
-		"reviewpopupActive":true
+		"reviewpopupActive":true,
+		"customAdActive":true,
+		"customAdImageLink":"https://i.imgur.com/NMmW6jz.png",
+		"customAdButtonBackgroundColor":"#279b37",
+		"customAdButtonTextColor":"#FFFFFF",
+		"customAdButtonLink":"https://www.google.com"
 	}
 }
