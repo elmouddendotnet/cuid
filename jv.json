@@ -1,0 +1,45 @@
+{
+  "AdsManager": {
+    "adNetwork": "ironsource",
+    "appopen_admob": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+    "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+    "iron_app_key":"17f6c2d9d",
+    "customAdActive":true,
+    "customAdImageLink":"https://i.imgur.com/NMmW6jz.png",
+    "customAdButtonText":"INSTALL NOW",
+    "customAdButtonBackgroundColor":"#279b37",
+    "customAdButtonTextColor":"#FFFFFF",
+    "customAdButtonLink":"https://www.google.com",
+    "ratingActive":true
+  },
+  "Wallpapers": [
+    {
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    },
+	
+    {
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    },
+	
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    },
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    },
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    },    
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    }
+	
+  ]
+}
