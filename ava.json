@@ -1,0 +1,60 @@
+{
+	"AdsManager":{
+		"adNetwork":"admob",
+		"admobBanner":"ca-app-pub-3940256099942544/6300978111",
+		"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+		"admobNative":"ca-app-pub-3940256099942544/2247696110",
+		"fanBanner":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+		"fanInterstitial":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+		"fanNative":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652",
+		"applovinBanner":"",
+		"applovinInterstitial":"",
+		"applovinNative":"",
+		"ironsourceAppID":"17f6c2d9d ",
+		"yandexBanner":"",
+		"yandexInterstitial":"",
+		"yandexNative":"",
+		"unityGameID":"4848007",
+		"unityBanner":"Banner_Android",
+		"unityTest":true,
+		"unityInterstitial":"Interstitial_Android"
+	},
+
+	"Articles":[
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		},
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		},
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		},
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		},
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		},
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		},
+		{
+			"Title":"Lorem ipsum dolor sit amet",
+			"Image":"https://i.imgur.com/tSmx4AN.jpg",
+			"contentText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tincidunt nunc pulvinar sapien et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Neque vitae tempus quam pellentesque nec nam aliquam sem. Vitae elementum curabitur vitae nunc sed velit."
+		}
+	]
+}
